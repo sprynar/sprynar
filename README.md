@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @sprynar
+- 👀 I’m interested in video game development, game consoles and retro gaming
+- 🌱 I’m currently learning C#
