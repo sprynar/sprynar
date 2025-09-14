@@ -1,3 +1,2 @@
-- 👋 Hi, I’m @sprynar
-- 👀 I’m interested in video game development, game consoles and retro gaming
-- 🌱 I’m currently learning C#, C++, Python
+# NEJSEM ZDE AKTIVNÍ, PROJEKTY VYDÁVÁM NA CODEBERG [ZDE](codeberg.org/sprynar)
+# I'M NOT ACTIVE ON GITHUB, I PUBLISH MY PROJECTS TO CODEBERG [HERE](codeberg.org/sprynar)
